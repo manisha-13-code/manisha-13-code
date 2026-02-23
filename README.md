@@ -1,11 +1,29 @@
 <h1 align="center">Hi 👋, I'm Manisha Chauhan</h1>
 <h3 align="center">Full Stack Developer | Backend-Focused Engineer | AI Builder</h3>
 
+<p align="center">
+<a href="https://www.linkedin.com/in/manisha-chauhan-964a01248/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/manisha-13-code" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:manishachauhan5469@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/manisha_2003/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+</p>
+
 ---
 
 # 👩‍💻 About Me
 
-I am a passionate **Full Stack Developer** who enjoys building scalable, production-ready applications from the ground up. I take ownership of features end-to-end — from database design and API architecture to frontend integration and deployment.
+I am a passionate **Full Stack Developer** who enjoys building scalable, production-ready applications from the ground up. I take ownership of features end-to-end from database design and API architecture to frontend integration and deployment.
 
 My core strength lies in **backend engineering**. I am comfortable designing secure REST APIs, implementing authentication & authorization systems, handling RBAC logic, optimizing database queries, and structuring clean, maintainable server architecture. I focus on modular code, separation of concerns, and writing production-level logic.
 
@@ -40,7 +58,7 @@ I continuously focus on improving system design thinking, writing clean scalable
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-111111?style=for-the-badge&logo=ui&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-111111?style=for-the-badge)
 
 ---
 
