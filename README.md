@@ -1,80 +1,78 @@
 <h1 align="center">Hi 👋, I'm Manisha Chauhan</h1>
-<h3 align="center">Full Stack Developer | AI Enthusiast | 500+ DSA Solver</h3>
+<h3 align="center">Full Stack Developer | Backend-Focused Engineer | AI Builder</h3>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-🎓 B.Tech CSE (CGPA: 9.2/10) – Indus Institute of Technology, Ahmedabad  
-💼 Full Stack Developer Intern @ Groot Technologies  
-🚀 Passionate about scalable full-stack & AI-powered systems  
-🧠 Strong in Java, OOP, DBMS, REST APIs & System Design Basics  
-🔥 Consistent GitHub contributor  
+I am a passionate **Full Stack Developer** with strong expertise in building scalable, production-ready web applications from scratch. I enjoy owning features end-to-end — from designing database schemas and writing secure REST APIs to building responsive frontend interfaces.
 
----
+My core strength lies in **backend engineering**. I am highly comfortable designing APIs, implementing authentication & authorization, handling database optimization, and structuring clean, maintainable architecture. I focus on writing modular code, following proper folder structure, and maintaining separation of concerns.
 
-# 🌐 Connect With Me
+On the frontend, I build fast, responsive UI using React and Next.js with Tailwind CSS. I understand component architecture, state management, API integration, and performance optimization.
 
-<p align="left">
-<a href="https://www.linkedin.com/in/manisha-chauhan-964a01248/" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+I have hands-on experience working with:
 
-<a href="https://github.com/manisha-13-code" target="blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+- Building full-stack systems with role-based access control (RBAC)
+- Designing RESTful APIs with proper error handling
+- Database schema design and query optimization
+- Authentication & authorization implementation
+- Dockerizing applications
+- Working in Agile environments with Git-based workflows
+- Integrating AI models (Gemini, Groq LLM) into real-world applications
 
-<a href="https://manisha-3d-portfolio.vercel.app/" target="blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+I am also a strong problem solver. Solving DSA problems consistently has strengthened my understanding of algorithms, data structures, edge cases, and performance optimization.
 
-<a href="https://leetcode.com/u/manisha_2003/" target="blank">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="mailto:manishachauhan5469@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+I continuously focus on:
+- Writing clean and scalable code
+- Improving system design thinking
+- Learning production-level best practices
+- Building AI-powered intelligent systems
 
 ---
 
-# 💻 Tech Stack
+# 💻 Technical Skills
 
 ### 🚀 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+Java (Core, OOP, Collections)  
+Python  
+JavaScript (ES6+)  
 
 ---
 
 ### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge)
+React.js  
+Next.js  
+HTML5  
+CSS3  
+Tailwind CSS  
+Shadcn UI  
 
 ---
 
 ### 🔥 Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+Node.js  
+Express.js  
+REST API Development  
+Authentication & Authorization  
+RBAC Implementation  
 
 ---
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+MySQL  
+PostgreSQL  
+MongoDB  
+Prisma  
+Mongoose  
 
 ---
 
 ### 🤖 DevOps & AI
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E44AD?style=for-the-badge)
-![Groq LLM](https://img.shields.io/badge/Groq_LLM-FF6B6B?style=for-the-badge)
+Docker  
+GitHub Actions (CI/CD)  
+AI Integration (Gemini, Groq LLM)  
+API Orchestration  
 
 ---
 
@@ -83,30 +81,30 @@
 ## 🤖 Autonomous AI Project Manager  
 🔗 https://autonomous-project-manager.vercel.app/
 
-- Multi-agent AI task planning system  
-- Handles 100+ concurrent tasks  
-- Retry & self-review orchestration logic  
+- Multi-agent AI system converting goals into executable tasks  
+- Orchestrator-based task planning & retry logic  
+- Supports 100+ concurrent tasks  
 - Built with Next.js, FastAPI, PostgreSQL, Groq LLM, Docker  
 
 ---
 
 ## 💰 AI Finance Platform
 
-- Real-time tracking of 100+ financial records  
-- Gemini AI integration for automated insights  
+- Real-time tracking of financial records  
+- AI-powered automated financial insights  
 - Secure authentication & optimized queries  
 - Built with React, Next.js, Prisma, Tailwind  
 
 ---
 
-# 🧠 LeetCode Stats
+# 🧠 LeetCode
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/manisha_2003?theme=dark&font=Baloo&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/manisha_2003?theme=dark"/>
 </p>
 
 ### 🏅 LeetCode Medal
-<img src="https://leetcode.com/medal/?showImg=1&id=9414330&isLevel=false"/>
+<img src="https://leetcode.com/medal/?showImg=0&id=9414330&isLevel=false"/>
 
 **Problems Solved: 228**
 
