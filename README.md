@@ -1,6 +1,34 @@
 <h1 align="center">Hi 👋, I'm Manisha Chauhan</h1>
 <h3 align="center">Full Stack Developer | Backend-Focused Engineer | AI Builder</h3>
 
+---
+
+# 👩‍💻 About Me
+
+I am a passionate **Full Stack Developer** who enjoys building scalable, production-ready applications from the ground up. I take ownership of features end-to-end — from database design and API architecture to frontend integration and deployment.
+
+My core strength lies in **backend engineering**. I am comfortable designing secure REST APIs, implementing authentication & authorization systems, handling RBAC logic, optimizing database queries, and structuring clean, maintainable server architecture. I focus on modular code, separation of concerns, and writing production-level logic.
+
+On the frontend, I build responsive and performant UI using React and Next.js. I understand component-driven architecture, API integration, state handling, and performance optimization.
+
+I have hands-on experience in:
+- Designing scalable full-stack systems  
+- Role-Based Access Control (RBAC)  
+- Secure authentication flows  
+- Database schema design & optimization  
+- Dockerizing applications  
+- CI/CD pipelines using GitHub Actions  
+- AI integration (Gemini, Groq LLM)  
+- Agile development & Git workflows  
+
+Solving DSA problems consistently has strengthened my logical thinking, edge-case handling, and algorithmic efficiency.
+
+I continuously focus on improving system design thinking, writing clean scalable code, and building intelligent AI-powered systems.
+
+---
+
+# 🌐 Connect With Me
+
 <p align="center">
 <a href="https://www.linkedin.com/in/manisha-chauhan-964a01248/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -18,30 +46,6 @@
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 </p>
-
----
-
-# 👩‍💻 About Me
-
-I am a passionate **Full Stack Developer** who enjoys building scalable, production-ready applications from the ground up. I take ownership of features end-to-end from database design and API architecture to frontend integration and deployment.
-
-My core strength lies in **backend engineering**. I am comfortable designing secure REST APIs, implementing authentication & authorization systems, handling RBAC logic, optimizing database queries, and structuring clean, maintainable server architecture. I focus on modular code, separation of concerns, and writing production-level logic.
-
-On the frontend, I build responsive and performant UI using React and Next.js. I understand component-driven architecture, API integration, state handling, and performance optimization.
-
-I have hands-on experience in:
-- Designing scalable full-stack systems
-- Role-Based Access Control (RBAC)
-- Secure authentication flows
-- Database schema design & optimization
-- Dockerizing applications
-- CI/CD pipelines using GitHub Actions
-- AI integration (Gemini, Groq LLM)
-- Agile development & Git workflows
-
-Solving DSA problems consistently has strengthened my logical thinking, edge-case handling, and algorithmic efficiency.
-
-I continuously focus on improving system design thinking, writing clean scalable code, and building intelligent AI-powered systems.
 
 ---
 
