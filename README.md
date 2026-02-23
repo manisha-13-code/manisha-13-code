@@ -1,20 +1,19 @@
 <h1 align="center">Hi 👋, I'm Manisha Chauhan</h1>
-<h3 align="center">Full Stack Developer | AI Enthusiast | Problem Solver</h3>
+<h3 align="center">Full Stack Developer | AI Enthusiast | 500+ DSA Solver</h3>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech CSE (CGPA: 9.2/10) – Indus Institute of Technology, Ahmedabad  
-- 💼 Full Stack Developer Intern at Groot Technologies  
-- 🚀 Passionate about building scalable full-stack & AI-powered applications  
-- 🧠 Solved 500+ DSA problems on LeetCode & GeeksforGeeks  
-- 🌱 Currently improving backend architecture & system design skills  
-- ⚡ Love working in fast-paced startup environments  
+🎓 B.Tech CSE (CGPA: 9.2/10) – Indus Institute of Technology, Ahmedabad  
+💼 Full Stack Developer Intern @ Groot Technologies  
+🚀 Passionate about scalable full-stack & AI-powered systems  
+🧠 Strong in Java, OOP, DBMS, REST APIs & System Design Basics  
+🔥 Consistent GitHub contributor  
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/manisha-chauhan-964a01248/" target="blank">
@@ -27,6 +26,10 @@
 
 <a href="https://manisha-3d-portfolio.vercel.app/" target="blank">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/manisha_2003/" target="blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="mailto:manishachauhan5469@gmail.com">
@@ -50,7 +53,6 @@
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
 
@@ -68,11 +70,11 @@
 
 ---
 
-### 🤖 AI & Tools
-![Gemini](https://img.shields.io/badge/Gemini_AI-8E44AD?style=for-the-badge)
-![Groq](https://img.shields.io/badge/Groq_LLM-FF6B6B?style=for-the-badge)
+### 🤖 DevOps & AI
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E44AD?style=for-the-badge)
+![Groq LLM](https://img.shields.io/badge/Groq_LLM-FF6B6B?style=for-the-badge)
 
 ---
 
@@ -81,27 +83,36 @@
 ## 🤖 Autonomous AI Project Manager  
 🔗 https://autonomous-project-manager.vercel.app/
 
-- Multi-agent AI system converting goals into executable tasks  
-- Orchestrator-based task planning & retry logic  
-- Supports 100+ concurrent tasks  
-- Built using Next.js, FastAPI, PostgreSQL, Groq LLM, Docker  
+- Multi-agent AI task planning system  
+- Handles 100+ concurrent tasks  
+- Retry & self-review orchestration logic  
+- Built with Next.js, FastAPI, PostgreSQL, Groq LLM, Docker  
 
 ---
 
 ## 💰 AI Finance Platform
 
 - Real-time tracking of 100+ financial records  
-- Integrated Gemini AI for automated financial insights  
-- Secure authentication using Clerk  
-- Built using React, Next.js, Prisma, Tailwind  
+- Gemini AI integration for automated insights  
+- Secure authentication & optimized queries  
+- Built with React, Next.js, Prisma, Tailwind  
 
 ---
 
-# 🏆 Achievements
+# 🧠 LeetCode Stats
 
-🥇 Top 15 – HackHazards Hackathon 2025 (Fluvio Track)  
-🧠 500+ DSA problems solved  
-⚡ Strong in Java, OOP, DBMS & System Design Basics  
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/manisha_2003?theme=dark&font=Baloo&ext=contest"/>
+</p>
+
+### 🏅 LeetCode Medal
+<img src="https://leetcode.com/medal/?showImg=1&id=9414330&isLevel=false"/>
+
+**Problems Solved: 228**
+
+- 🟢 Easy: 62  
+- 🟡 Medium: 139  
+- 🔴 Hard: 27  
 
 ---
 
@@ -113,10 +124,4 @@
 
 ---
 
-# 🧠 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/manisha-13-code?theme=dark&font=Baloo&ext=contest)
-
----
-
-⭐️ From [manisha-13-code](https://github.com/manisha-13-code)
+⭐ From [manisha-13-code](https://github.com/manisha-13-code)
